@@ -1,5 +1,6 @@
 # 인구 밀집도 평가 모델 동작 원리
-![메이커톤 사진 3](https://github.com/user-attachments/assets/89df2cdf-08c3-47e8-bdc8-7456a9456a1c)
+![메이커톤 사진 3](https://github.com/user-attachments/assets/2801921d-1758-4618-b385-f5dd6aacb519)
+
 
 
 # 모델 활용 - 어플리케이션으로 특정 장소 인구 밀집도 정보 제공 예시
